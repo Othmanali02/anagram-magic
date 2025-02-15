@@ -162,7 +162,7 @@ class NavBar extends Component {
 						<a
 							rel="noreferrer"
 							target="_blank"
-							href="https://github.com/Othmanali02"
+							href="https://github.com/Othmanali02/anagram-magic"
 						>
 							<img src={github} alt="github" className="link" />
 						</a>

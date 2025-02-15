@@ -47467,6 +47467,47131 @@ const words = [
 		],
 		date: "2025-02-11",
 	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Appointed",
+			},
+		],
+		date: "2025-02-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Increased",
+			},
+		],
+		date: "2025-02-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Adventure",
+			},
+		],
+		date: "2025-02-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Substance",
+			},
+		],
+		date: "2025-02-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Contained",
+			},
+		],
+		date: "2025-02-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Frequency",
+			},
+		],
+		date: "2025-02-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Excellent",
+			},
+		],
+		date: "2025-02-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Movements",
+			},
+		],
+		date: "2025-02-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interests",
+			},
+		],
+		date: "2025-02-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Attribute",
+			},
+		],
+		date: "2025-02-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Sometimes",
+			},
+		],
+		date: "2025-02-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Establish",
+			},
+		],
+		date: "2025-02-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Disappear",
+			},
+		],
+		date: "2025-02-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Confusion",
+			},
+		],
+		date: "2025-02-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Translate",
+			},
+		],
+		date: "2025-02-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Reinforce",
+			},
+		],
+		date: "2025-02-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+				],
+				word: "Breakfast",
+			},
+		],
+		date: "2025-02-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Countries",
+			},
+		],
+		date: "2025-02-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Expensive",
+			},
+		],
+		date: "2025-02-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Statement",
+			},
+		],
+		date: "2025-03-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Expressed",
+			},
+		],
+		date: "2025-03-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Otherwise",
+			},
+		],
+		date: "2025-03-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Following",
+			},
+		],
+		date: "2025-03-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Developed",
+			},
+		],
+		date: "2025-03-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Connected",
+			},
+		],
+		date: "2025-03-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Reference",
+			},
+		],
+		date: "2025-03-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Situation",
+			},
+		],
+		date: "2025-03-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Discovery",
+			},
+		],
+		date: "2025-03-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Boyfriend",
+			},
+		],
+		date: "2025-03-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Regarding",
+			},
+		],
+		date: "2025-03-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Christian",
+			},
+		],
+		date: "2025-03-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Available",
+			},
+		],
+		date: "2025-03-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Currently",
+			},
+		],
+		date: "2025-03-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Defensive",
+			},
+		],
+		date: "2025-03-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Emotional",
+			},
+		],
+		date: "2025-03-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Americans",
+			},
+		],
+		date: "2025-03-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Everybody",
+			},
+		],
+		date: "2025-03-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Commander",
+			},
+		],
+		date: "2025-03-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "J",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Objective",
+			},
+		],
+		date: "2025-03-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Regularly",
+			},
+		],
+		date: "2025-03-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Different",
+			},
+		],
+		date: "2025-03-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Technical",
+			},
+		],
+		date: "2025-03-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Materials",
+			},
+		],
+		date: "2025-03-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Cambridge",
+			},
+		],
+		date: "2025-03-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Increases",
+			},
+		],
+		date: "2025-03-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Religious",
+			},
+		],
+		date: "2025-03-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Companies",
+			},
+		],
+		date: "2025-03-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "September",
+			},
+		],
+		date: "2025-03-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Discourse",
+			},
+		],
+		date: "2025-03-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Criticize",
+			},
+		],
+		date: "2025-03-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Associate",
+			},
+		],
+		date: "2025-04-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Telephone",
+			},
+		],
+		date: "2025-04-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Dimension",
+			},
+		],
+		date: "2025-04-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Operation",
+			},
+		],
+		date: "2025-04-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Scientist",
+			},
+		],
+		date: "2025-04-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Defendant",
+			},
+		],
+		date: "2025-04-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Telescope",
+			},
+		],
+		date: "2025-04-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Generally",
+			},
+		],
+		date: "2025-04-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Indicated",
+			},
+		],
+		date: "2025-04-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Institute",
+			},
+		],
+		date: "2025-04-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Mentioned",
+			},
+		],
+		date: "2025-04-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Tradition",
+			},
+		],
+		date: "2025-04-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Assistant",
+			},
+		],
+		date: "2025-04-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Operating",
+			},
+		],
+		date: "2025-04-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Published",
+			},
+		],
+		date: "2025-04-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Challenge",
+			},
+		],
+		date: "2025-04-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Economics",
+			},
+		],
+		date: "2025-04-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Architect",
+			},
+		],
+		date: "2025-04-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Decisions",
+			},
+		],
+		date: "2025-04-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Gentleman",
+			},
+		],
+		date: "2025-04-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Resources",
+			},
+		],
+		date: "2025-04-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Desperate",
+			},
+		],
+		date: "2025-04-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Personnel",
+			},
+		],
+		date: "2025-04-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Intensity",
+			},
+		],
+		date: "2025-04-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Admission",
+			},
+		],
+		date: "2025-04-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Determine",
+			},
+		],
+		date: "2025-04-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Testimony",
+			},
+		],
+		date: "2025-04-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Supporter",
+			},
+		],
+		date: "2025-04-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Classroom",
+			},
+		],
+		date: "2025-04-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Publisher",
+			},
+		],
+		date: "2025-04-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Similarly",
+			},
+		],
+		date: "2025-05-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Executive",
+			},
+		],
+		date: "2025-05-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Selection",
+			},
+		],
+		date: "2025-05-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+				],
+				word: "Knowledge",
+			},
+		],
+		date: "2025-05-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Principle",
+			},
+		],
+		date: "2025-05-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Basically",
+			},
+		],
+		date: "2025-05-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Guideline",
+			},
+		],
+		date: "2025-05-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Celebrity",
+			},
+		],
+		date: "2025-05-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Furniture",
+			},
+		],
+		date: "2025-05-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Pregnancy",
+			},
+		],
+		date: "2025-05-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Intention",
+			},
+		],
+		date: "2025-05-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Inflation",
+			},
+		],
+		date: "2025-05-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Gradually",
+			},
+		],
+		date: "2025-05-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Discussed",
+			},
+		],
+		date: "2025-05-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Dependent",
+			},
+		],
+		date: "2025-05-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Technique",
+			},
+		],
+		date: "2025-05-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interview",
+			},
+		],
+		date: "2025-05-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Represent",
+			},
+		],
+		date: "2025-05-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Recommend",
+			},
+		],
+		date: "2025-05-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Beginning",
+			},
+		],
+		date: "2025-05-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Obviously",
+			},
+		],
+		date: "2025-05-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Diversity",
+			},
+		],
+		date: "2025-05-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Described",
+			},
+		],
+		date: "2025-05-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Explained",
+			},
+		],
+		date: "2025-05-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Guarantee",
+			},
+		],
+		date: "2025-05-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Relations",
+			},
+		],
+		date: "2025-05-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Continued",
+			},
+		],
+		date: "2025-05-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Character",
+			},
+		],
+		date: "2025-05-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Introduce",
+			},
+		],
+		date: "2025-05-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Chocolate",
+			},
+		],
+		date: "2025-05-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Something",
+			},
+		],
+		date: "2025-05-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Complaint",
+			},
+		],
+		date: "2025-06-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Confident",
+			},
+		],
+		date: "2025-06-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Secondary",
+			},
+		],
+		date: "2025-06-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Formation",
+			},
+		],
+		date: "2025-06-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Seriously",
+			},
+		],
+		date: "2025-06-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Awareness",
+			},
+		],
+		date: "2025-06-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Immediate",
+			},
+		],
+		date: "2025-06-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Employees",
+			},
+		],
+		date: "2025-06-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Efficient",
+			},
+		],
+		date: "2025-06-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Candidate",
+			},
+		],
+		date: "2025-06-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Framework",
+			},
+		],
+		date: "2025-06-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Strategic",
+			},
+		],
+		date: "2025-06-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Construct",
+			},
+		],
+		date: "2025-06-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Carefully",
+			},
+		],
+		date: "2025-06-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Evolution",
+			},
+		],
+		date: "2025-06-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Typically",
+			},
+		],
+		date: "2025-06-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Elsewhere",
+			},
+		],
+		date: "2025-06-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Ourselves",
+			},
+		],
+		date: "2025-06-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Influence",
+			},
+		],
+		date: "2025-06-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Depending",
+			},
+		],
+		date: "2025-06-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Dangerous",
+			},
+		],
+		date: "2025-06-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Therefore",
+			},
+		],
+		date: "2025-06-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Brilliant",
+			},
+		],
+		date: "2025-06-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Difficult",
+			},
+		],
+		date: "2025-06-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Essential",
+			},
+		],
+		date: "2025-06-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interpret",
+			},
+		],
+		date: "2025-06-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Extremely",
+			},
+		],
+		date: "2025-06-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Extensive",
+			},
+		],
+		date: "2025-06-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Prominent",
+			},
+		],
+		date: "2025-06-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Consensus",
+			},
+		],
+		date: "2025-06-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Committee",
+			},
+		],
+		date: "2025-07-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Initially",
+			},
+		],
+		date: "2025-07-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Emphasize",
+			},
+		],
+		date: "2025-07-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "President",
+			},
+		],
+		date: "2025-07-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Advantage",
+			},
+		],
+		date: "2025-07-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Principal",
+			},
+		],
+		date: "2025-07-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Surprised",
+			},
+		],
+		date: "2025-07-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Exception",
+			},
+		],
+		date: "2025-07-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Professor",
+			},
+		],
+		date: "2025-07-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Component",
+			},
+		],
+		date: "2025-07-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Celebrate",
+			},
+		],
+		date: "2025-07-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Effective",
+			},
+		],
+		date: "2025-07-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Existence",
+			},
+		],
+		date: "2025-07-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Direction",
+			},
+		],
+		date: "2025-07-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Household",
+			},
+		],
+		date: "2025-07-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Questions",
+			},
+		],
+		date: "2025-07-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Potential",
+			},
+		],
+		date: "2025-07-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Agreement",
+			},
+		],
+		date: "2025-07-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Transform",
+			},
+		],
+		date: "2025-07-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Financial",
+			},
+		],
+		date: "2025-07-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Certainly",
+			},
+		],
+		date: "2025-07-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Sensitive",
+			},
+		],
+		date: "2025-07-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Terrorism",
+			},
+		],
+		date: "2025-07-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Procedure",
+			},
+		],
+		date: "2025-07-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Corporate",
+			},
+		],
+		date: "2025-07-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Concerned",
+			},
+		],
+		date: "2025-07-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Presented",
+			},
+		],
+		date: "2025-07-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Standards",
+			},
+		],
+		date: "2025-07-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Cigarette",
+			},
+		],
+		date: "2025-07-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "According",
+			},
+		],
+		date: "2025-07-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Supported",
+			},
+		],
+		date: "2025-07-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Physician",
+			},
+		],
+		date: "2025-08-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Childhood",
+			},
+		],
+		date: "2025-08-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Historian",
+			},
+		],
+		date: "2025-08-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Calculate",
+			},
+		],
+		date: "2025-08-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Implement",
+			},
+		],
+		date: "2025-08-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Infection",
+			},
+		],
+		date: "2025-08-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Insurance",
+			},
+		],
+		date: "2025-08-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Encourage",
+			},
+		],
+		date: "2025-08-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Incentive",
+			},
+		],
+		date: "2025-08-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Eliminate",
+			},
+		],
+		date: "2025-08-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Community",
+			},
+		],
+		date: "2025-08-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Attention",
+			},
+		],
+		date: "2025-08-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Extension",
+			},
+		],
+		date: "2025-08-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Highlight",
+			},
+		],
+		date: "2025-08-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Territory",
+			},
+		],
+		date: "2025-08-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Precisely",
+			},
+		],
+		date: "2025-08-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Colleague",
+			},
+		],
+		date: "2025-08-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Offensive",
+			},
+		],
+		date: "2025-08-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Somewhere",
+			},
+		],
+		date: "2025-08-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Necessary",
+			},
+		],
+		date: "2025-08-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Passenger",
+			},
+		],
+		date: "2025-08-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Recording",
+			},
+		],
+		date: "2025-08-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Structure",
+			},
+		],
+		date: "2025-08-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Stability",
+			},
+		],
+		date: "2025-08-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Cognitive",
+			},
+		],
+		date: "2025-08-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Political",
+			},
+		],
+		date: "2025-08-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Primarily",
+			},
+		],
+		date: "2025-08-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Criticism",
+			},
+		],
+		date: "2025-08-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Accompany",
+			},
+		],
+		date: "2025-08-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Expansion",
+			},
+		],
+		date: "2025-08-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Processes",
+			},
+		],
+		date: "2025-08-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Remaining",
+			},
+		],
+		date: "2025-09-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Apartment",
+			},
+		],
+		date: "2025-09-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Reduction",
+			},
+		],
+		date: "2025-09-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Treatment",
+			},
+		],
+		date: "2025-09-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Authority",
+			},
+		],
+		date: "2025-09-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Suggested",
+			},
+		],
+		date: "2025-09-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Temporary",
+			},
+		],
+		date: "2025-09-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Performed",
+			},
+		],
+		date: "2025-09-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Beautiful",
+			},
+		],
+		date: "2025-09-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Encounter",
+			},
+		],
+		date: "2025-09-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Functions",
+			},
+		],
+		date: "2025-09-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Perfectly",
+			},
+		],
+		date: "2025-09-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Important",
+			},
+		],
+		date: "2025-09-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Container",
+			},
+		],
+		date: "2025-09-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Equipment",
+			},
+		],
+		date: "2025-09-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Economist",
+			},
+		],
+		date: "2025-09-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Secretary",
+			},
+		],
+		date: "2025-09-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Emergency",
+			},
+		],
+		date: "2025-09-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Spiritual",
+			},
+		],
+		date: "2025-09-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Afternoon",
+			},
+		],
+		date: "2025-09-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Counselor",
+			},
+		],
+		date: "2025-09-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Condition",
+			},
+		],
+		date: "2025-09-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Including",
+			},
+		],
+		date: "2025-09-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Recognize",
+			},
+		],
+		date: "2025-09-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Permanent",
+			},
+		],
+		date: "2025-09-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Practical",
+			},
+		],
+		date: "2025-09-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Pollution",
+			},
+		],
+		date: "2025-09-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Provision",
+			},
+		],
+		date: "2025-09-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Education",
+			},
+		],
+		date: "2025-09-29",
+	},
+
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Household",
+			},
+		],
+		date: "2025-09-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Generally",
+			},
+		],
+		date: "2025-10-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Movements",
+			},
+		],
+		date: "2025-10-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Diversity",
+			},
+		],
+		date: "2025-10-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Indicated",
+			},
+		],
+		date: "2025-10-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Stability",
+			},
+		],
+		date: "2025-10-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Published",
+			},
+		],
+		date: "2025-10-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Architect",
+			},
+		],
+		date: "2025-10-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Reduction",
+			},
+		],
+		date: "2025-10-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Operation",
+			},
+		],
+		date: "2025-10-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Sensitive",
+			},
+		],
+		date: "2025-10-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Publisher",
+			},
+		],
+		date: "2025-10-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Admission",
+			},
+		],
+		date: "2025-10-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Cambridge",
+			},
+		],
+		date: "2025-10-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Encourage",
+			},
+		],
+		date: "2025-10-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+				],
+				word: "Criticize",
+			},
+		],
+		date: "2025-10-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Provision",
+			},
+		],
+		date: "2025-10-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Guideline",
+			},
+		],
+		date: "2025-10-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Apartment",
+			},
+		],
+		date: "2025-10-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Initially",
+			},
+		],
+		date: "2025-10-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Furniture",
+			},
+		],
+		date: "2025-10-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+				],
+				word: "Framework",
+			},
+		],
+		date: "2025-10-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Committee",
+			},
+		],
+		date: "2025-10-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Americans",
+			},
+		],
+		date: "2025-10-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Supported",
+			},
+		],
+		date: "2025-10-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Concerned",
+			},
+		],
+		date: "2025-10-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Dangerous",
+			},
+		],
+		date: "2025-10-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Developed",
+			},
+		],
+		date: "2025-10-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Gentleman",
+			},
+		],
+		date: "2025-10-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Substance",
+			},
+		],
+		date: "2025-10-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Primarily",
+			},
+		],
+		date: "2025-10-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Boyfriend",
+			},
+		],
+		date: "2025-10-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Temporary",
+			},
+		],
+		date: "2025-11-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Encounter",
+			},
+		],
+		date: "2025-11-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Effective",
+			},
+		],
+		date: "2025-11-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Processes",
+			},
+		],
+		date: "2025-11-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Existence",
+			},
+		],
+		date: "2025-11-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Beautiful",
+			},
+		],
+		date: "2025-11-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Regarding",
+			},
+		],
+		date: "2025-11-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Offensive",
+			},
+		],
+		date: "2025-11-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Criticism",
+			},
+		],
+		date: "2025-11-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Recognize",
+			},
+		],
+		date: "2025-11-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Adventure",
+			},
+		],
+		date: "2025-11-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Permanent",
+			},
+		],
+		date: "2025-11-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "J",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Objective",
+			},
+		],
+		date: "2025-11-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Somewhere",
+			},
+		],
+		date: "2025-11-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Personnel",
+			},
+		],
+		date: "2025-11-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Practical",
+			},
+		],
+		date: "2025-11-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Emergency",
+			},
+		],
+		date: "2025-11-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Potential",
+			},
+		],
+		date: "2025-11-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Elsewhere",
+			},
+		],
+		date: "2025-11-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Recording",
+			},
+		],
+		date: "2025-11-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Calculate",
+			},
+		],
+		date: "2025-11-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Performed",
+			},
+		],
+		date: "2025-11-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Extremely",
+			},
+		],
+		date: "2025-11-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Frequency",
+			},
+		],
+		date: "2025-11-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Telescope",
+			},
+		],
+		date: "2025-11-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Structure",
+			},
+		],
+		date: "2025-11-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Condition",
+			},
+		],
+		date: "2025-11-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Relations",
+			},
+		],
+		date: "2025-11-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Desperate",
+			},
+		],
+		date: "2025-11-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Seriously",
+			},
+		],
+		date: "2025-11-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Consensus",
+			},
+		],
+		date: "2025-12-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Suggested",
+			},
+		],
+		date: "2025-12-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Colleague",
+			},
+		],
+		date: "2025-12-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Strategic",
+			},
+		],
+		date: "2025-12-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Community",
+			},
+		],
+		date: "2025-12-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Discovery",
+			},
+		],
+		date: "2025-12-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Defendant",
+			},
+		],
+		date: "2025-12-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Therefore",
+			},
+		],
+		date: "2025-12-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Depending",
+			},
+		],
+		date: "2025-12-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Establish",
+			},
+		],
+		date: "2025-12-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Influence",
+			},
+		],
+		date: "2025-12-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Presented",
+			},
+		],
+		date: "2025-12-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Something",
+			},
+		],
+		date: "2025-12-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Ourselves",
+			},
+		],
+		date: "2025-12-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Institute",
+			},
+		],
+		date: "2025-12-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Container",
+			},
+		],
+		date: "2025-12-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Basically",
+			},
+		],
+		date: "2025-12-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Associate",
+			},
+		],
+		date: "2025-12-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Treatment",
+			},
+		],
+		date: "2025-12-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Advantage",
+			},
+		],
+		date: "2025-12-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Pollution",
+			},
+		],
+		date: "2025-12-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Mentioned",
+			},
+		],
+		date: "2025-12-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Otherwise",
+			},
+		],
+		date: "2025-12-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Political",
+			},
+		],
+		date: "2025-12-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Afternoon",
+			},
+		],
+		date: "2025-12-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Cigarette",
+			},
+		],
+		date: "2025-12-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Complaint",
+			},
+		],
+		date: "2025-12-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+				],
+				word: "Expensive",
+			},
+		],
+		date: "2025-12-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Knowledge",
+			},
+		],
+		date: "2025-12-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Economics",
+			},
+		],
+		date: "2025-12-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Corporate",
+			},
+		],
+		date: "2025-12-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Emotional",
+			},
+		],
+		date: "2026-01-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "According",
+			},
+		],
+		date: "2026-01-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Immediate",
+			},
+		],
+		date: "2026-01-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Procedure",
+			},
+		],
+		date: "2026-01-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Eliminate",
+			},
+		],
+		date: "2026-01-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Determine",
+			},
+		],
+		date: "2026-01-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Scientist",
+			},
+		],
+		date: "2026-01-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Celebrate",
+			},
+		],
+		date: "2026-01-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Telephone",
+			},
+		],
+		date: "2026-01-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Expansion",
+			},
+		],
+		date: "2026-01-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Agreement",
+			},
+		],
+		date: "2026-01-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Connected",
+			},
+		],
+		date: "2026-01-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Essential",
+			},
+		],
+		date: "2026-01-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Surprised",
+			},
+		],
+		date: "2026-01-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+				],
+				word: "Explained",
+			},
+		],
+		date: "2026-01-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Principle",
+			},
+		],
+		date: "2026-01-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Decisions",
+			},
+		],
+		date: "2026-01-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Recommend",
+			},
+		],
+		date: "2026-01-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Exception",
+			},
+		],
+		date: "2026-01-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Disappear",
+			},
+		],
+		date: "2026-01-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Technical",
+			},
+		],
+		date: "2026-01-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Similarly",
+			},
+		],
+		date: "2026-01-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Introduce",
+			},
+		],
+		date: "2026-01-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Appointed",
+			},
+		],
+		date: "2026-01-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Reference",
+			},
+		],
+		date: "2026-01-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Component",
+			},
+		],
+		date: "2026-01-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Translate",
+			},
+		],
+		date: "2026-01-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "K",
+						points: 5,
+						type: 0,
+					},
+				],
+				word: "Breakfast",
+			},
+		],
+		date: "2026-01-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Expressed",
+			},
+		],
+		date: "2026-01-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Employees",
+			},
+		],
+		date: "2026-01-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Situation",
+			},
+		],
+		date: "2026-01-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Increased",
+			},
+		],
+		date: "2026-02-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Incentive",
+			},
+		],
+		date: "2026-02-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Important",
+			},
+		],
+		date: "2026-02-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Childhood",
+			},
+		],
+		date: "2026-02-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Z",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Emphasize",
+			},
+		],
+		date: "2026-02-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Executive",
+			},
+		],
+		date: "2026-02-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Supporter",
+			},
+		],
+		date: "2026-02-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Extensive",
+			},
+		],
+		date: "2026-02-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Intention",
+			},
+		],
+		date: "2026-02-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Perfectly",
+			},
+		],
+		date: "2026-02-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Testimony",
+			},
+		],
+		date: "2026-02-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Construct",
+			},
+		],
+		date: "2026-02-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Efficient",
+			},
+		],
+		date: "2026-02-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Dimension",
+			},
+		],
+		date: "2026-02-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Inflation",
+			},
+		],
+		date: "2026-02-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Counselor",
+			},
+		],
+		date: "2026-02-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Described",
+			},
+		],
+		date: "2026-02-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interview",
+			},
+		],
+		date: "2026-02-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "President",
+			},
+		],
+		date: "2026-02-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Carefully",
+			},
+		],
+		date: "2026-02-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Materials",
+			},
+		],
+		date: "2026-02-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Highlight",
+			},
+		],
+		date: "2026-02-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Cognitive",
+			},
+		],
+		date: "2026-02-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Character",
+			},
+		],
+		date: "2026-02-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Regularly",
+			},
+		],
+		date: "2026-02-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Celebrity",
+			},
+		],
+		date: "2026-02-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Difficult",
+			},
+		],
+		date: "2026-02-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interpret",
+			},
+		],
+		date: "2026-02-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Principal",
+			},
+		],
+		date: "2026-03-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Obviously",
+			},
+		],
+		date: "2026-03-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Available",
+			},
+		],
+		date: "2026-03-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Confusion",
+			},
+		],
+		date: "2026-03-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Represent",
+			},
+		],
+		date: "2026-03-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Everybody",
+			},
+		],
+		date: "2026-03-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Tradition",
+			},
+		],
+		date: "2026-03-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Infection",
+			},
+		],
+		date: "2026-03-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Pregnancy",
+			},
+		],
+		date: "2026-03-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Dependent",
+			},
+		],
+		date: "2026-03-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Sometimes",
+			},
+		],
+		date: "2026-03-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Different",
+			},
+		],
+		date: "2026-03-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Prominent",
+			},
+		],
+		date: "2026-03-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Extension",
+			},
+		],
+		date: "2026-03-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Challenge",
+			},
+		],
+		date: "2026-03-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Classroom",
+			},
+		],
+		date: "2026-03-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Historian",
+			},
+		],
+		date: "2026-03-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Typically",
+			},
+		],
+		date: "2026-03-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Accompany",
+			},
+		],
+		date: "2026-03-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Certainly",
+			},
+		],
+		date: "2026-03-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Beginning",
+			},
+		],
+		date: "2026-03-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Secondary",
+			},
+		],
+		date: "2026-03-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Religious",
+			},
+		],
+		date: "2026-03-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Transform",
+			},
+		],
+		date: "2026-03-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Financial",
+			},
+		],
+		date: "2026-03-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "X",
+						points: 8,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Excellent",
+			},
+		],
+		date: "2026-03-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Currently",
+			},
+		],
+		date: "2026-03-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Formation",
+			},
+		],
+		date: "2026-03-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Necessary",
+			},
+		],
+		date: "2026-03-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Chocolate",
+			},
+		],
+		date: "2026-03-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Increases",
+			},
+		],
+		date: "2026-03-31",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Resources",
+			},
+		],
+		date: "2026-04-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Education",
+			},
+		],
+		date: "2026-04-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Interests",
+			},
+		],
+		date: "2026-04-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Questions",
+			},
+		],
+		date: "2026-04-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Attribute",
+			},
+		],
+		date: "2026-04-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Guarantee",
+			},
+		],
+		date: "2026-04-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Evolution",
+			},
+		],
+		date: "2026-04-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Continued",
+			},
+		],
+		date: "2026-04-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Functions",
+			},
+		],
+		date: "2026-04-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Awareness",
+			},
+		],
+		date: "2026-04-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Contained",
+			},
+		],
+		date: "2026-04-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Technique",
+			},
+		],
+		date: "2026-04-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Confident",
+			},
+		],
+		date: "2026-04-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Reinforce",
+			},
+		],
+		date: "2026-04-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Christian",
+			},
+		],
+		date: "2026-04-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "V",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Defensive",
+			},
+		],
+		date: "2026-04-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "X",
+				points: 8,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Discussed",
+			},
+		],
+		date: "2026-04-17",
+	},
+	{
+		RandomNine: [
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "W",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Following",
+			},
+		],
+		date: "2026-04-18",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Implement",
+			},
+		],
+		date: "2026-04-19",
+	},
+	{
+		RandomNine: [
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 1,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Economist",
+			},
+		],
+		date: "2026-04-20",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Physician",
+			},
+		],
+		date: "2026-04-21",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Selection",
+			},
+		],
+		date: "2026-04-22",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "H",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Authority",
+			},
+		],
+		date: "2026-04-23",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "B",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Brilliant",
+			},
+		],
+		date: "2026-04-24",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Discourse",
+			},
+		],
+		date: "2026-04-25",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Territory",
+			},
+		],
+		date: "2026-04-26",
+	},
+	{
+		RandomNine: [
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Remaining",
+			},
+		],
+		date: "2026-04-27",
+	},
+	{
+		RandomNine: [
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Attention",
+			},
+		],
+		date: "2026-04-28",
+	},
+	{
+		RandomNine: [
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 2,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Direction",
+			},
+		],
+		date: "2026-04-29",
+	},
+	{
+		RandomNine: [
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+				],
+				word: "Gradually",
+			},
+		],
+		date: "2026-04-30",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Countries",
+			},
+		],
+		date: "2026-05-01",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Spiritual",
+			},
+		],
+		date: "2026-05-02",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Intensity",
+			},
+		],
+		date: "2026-05-03",
+	},
+	{
+		RandomNine: [
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Assistant",
+			},
+		],
+		date: "2026-05-04",
+	},
+	{
+		RandomNine: [
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Operating",
+			},
+		],
+		date: "2026-05-05",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Insurance",
+			},
+		],
+		date: "2026-05-06",
+	},
+	{
+		RandomNine: [
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "H",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Precisely",
+			},
+		],
+		date: "2026-05-07",
+	},
+	{
+		RandomNine: [
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Standards",
+			},
+		],
+		date: "2026-05-08",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "C",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+				],
+				word: "Commander",
+			},
+		],
+		date: "2026-05-09",
+	},
+	{
+		RandomNine: [
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "L",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Candidate",
+			},
+		],
+		date: "2026-05-10",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "J",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+			{
+				char: "U",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+				],
+				word: "Passenger",
+			},
+		],
+		date: "2026-05-11",
+	},
+	{
+		RandomNine: [
+			{
+				char: "Q",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Terrorism",
+			},
+		],
+		date: "2026-05-12",
+	},
+	{
+		RandomNine: [
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "D",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "P",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "G",
+				points: 2,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 2,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Q",
+						points: 10,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Equipment",
+			},
+		],
+		date: "2026-05-13",
+	},
+	{
+		RandomNine: [
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "V",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "F",
+				points: 4,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "W",
+				points: 4,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "M",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Companies",
+			},
+		],
+		date: "2026-05-14",
+	},
+	{
+		RandomNine: [
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "Z",
+				points: 10,
+				type: 0,
+			},
+			{
+				char: "S",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+			{
+				char: "M",
+				points: 3,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "K",
+				points: 5,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "D",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "U",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "L",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "G",
+						points: 2,
+						type: 0,
+					},
+					{
+						char: "N",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "I",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Including",
+			},
+		],
+		date: "2026-05-15",
+	},
+	{
+		RandomNine: [
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "E",
+				points: 1,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "R",
+				points: 1,
+				type: 1,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "A",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "T",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "Y",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "C",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Secretary",
+			},
+		],
+		date: "2026-05-16",
+	},
+	{
+		RandomNine: [
+			{
+				char: "B",
+				points: 3,
+				type: 1,
+			},
+			{
+				char: "I",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "X",
+				points: 8,
+				type: 0,
+			},
+			{
+				char: "O",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "Y",
+				points: 4,
+				type: 2,
+			},
+			{
+				char: "T",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "N",
+				points: 1,
+				type: 0,
+			},
+			{
+				char: "A",
+				points: 1,
+				type: 0,
+			},
+		],
+		NineWord: [
+			{
+				arr: [
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "E",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "P",
+						points: 3,
+						type: 0,
+					},
+					{
+						char: "F",
+						points: 4,
+						type: 0,
+					},
+					{
+						char: "O",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "S",
+						points: 1,
+						type: 0,
+					},
+					{
+						char: "R",
+						points: 1,
+						type: 0,
+					},
+				],
+				word: "Professor",
+			},
+		],
+		date: "2026-05-17",
+	},
 ];
 
 const nineLetterWords = [
@@ -47713,9 +94838,10 @@ export function genDailyShi() {
 		DailyLetters.push({
 			RandomNine: getRandomNine(),
 			NineWord: [createSpecialNineLetterWord(rand[i])],
-			date: theCurrDate(new Date("2024-06-25"), i),
+			date: theCurrDate(new Date("2025-09-29"), i),
 		});
 	}
+	console.log(DailyLetters);
 }
 
 function theCurrDate(date, i) {
@@ -47781,7 +94907,6 @@ export function createNineLetterWord() {
 
 export function getTodaysLetters(date) {
 	let todaysLetters = "";
-
 	for (let i = 0; i < words.length; i++) {
 		if (words[i].date === date) {
 			todaysLetters = words[i];
